@@ -2,8 +2,7 @@
 <h3 align="center"> Doctor turned full stack software engineer 🌟 </h3>
 <p align="center"> 👩‍💻🚀 After over four years in the NHS, I've embarked on an exciting journey of self-discovery and career transition! 🛤️💡 </p>
 <p align="center">From medicine to coding, I've found my passion and purpose in the dynamic world of software engineering. 💻 Now a graduate of a software engineering bootcamp 🎓, I'm ready to dive into innovative projects, collaborate with talented teams, and make a meaningful impact in the tech industry! 🌐💼</p> 
-<p align="center"> When I'm not immersed in code, you'll find me 🎾 acing serves on the tennis court, 🧘 flowing through yoga sessions, 📺 binge-watching Netflix series, or 🌟 creating unforgettable moments with friends and family. </p>
-<!-- <p align="center">Let's code for a brighter future! ✨👩‍💼</p> -->
+<p align="center"> When I'm not immersed in code, you'll find me 🎾 acing serves on the tennis court, 🧘 flowing through yoga sessions, 📺 binge-watching Netflix series, or 🌟 hanging out with friends and family. </p>
 
 <h3 align="left">Where to find me 🔍 </h3>
 
