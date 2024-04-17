@@ -4,9 +4,10 @@
 <p align="center">From medicine to coding, I've found my passion and purpose in the dynamic world of software engineering. 💻 Now a graduate of a software engineering bootcamp 🎓, I'm ready to dive into innovative projects, collaborate with talented teams, and make a meaningful impact in the tech industry! 🌐💼</p> 
 <p align="center"> When I'm not immersed in code, you'll find me 🎾 acing serves on the tennis court, 🧘 flowing through yoga sessions, 📺 binge-watching Netflix series, or 🌟 hanging out with friends and family. </p>
 
-<h3 align="left">Where to find me 🔍 </h3>
+<h3>Where to find me 🔍 </h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" height="25" />](https://www.linkedin.com/in/sarah-naunton)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" target="_blank" height="25" />](https://www.linkedin.com/in/sarah-naunton) 
+
 
 <h3 align="left">What I am currently working on 💻 </h3>
 
@@ -28,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knexjs/knexjs-original.svg" alt="heroku" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahnaunton&langs_count=5&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahnaunton&langs_count=5&theme=transparent&show_icons=true&layout=compact)
 
 <h3 align="left">What I am currently improving on/learning 📖</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
