@@ -22,5 +22,5 @@
 
 <h3 align="left">What I am currently working on  </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahnaunton&repo=portfolio-website&theme=transparent&show_icons=true)](https://github.com/sarahnaunton/porfolio-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahnaunton&repo=portfolio-website&theme=transparent&showicons=true)](https://github.com/sarahnaunton/portfolio-website)
 
