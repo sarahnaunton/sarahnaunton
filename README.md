@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Sarah </h1>
 
-<p> Full-stack software engineer specialising in React, Node, Express and MySQL, and my current interests include TypeScript. </p> 
+<p> Full-stack software engineer specialising in <b>React</b>, <b>Node</b>, <b>Express</b>, <b>MySQL</b> and <b>Knex</b>, and my current interests include <b>TypeScript</b>. </p> 
 
 <p>My background is in healthcare where I have worked for over 4 years as a doctor in the NHS. I have cultivated essential skills in communication, collaboration and empathy, as well as the ability to learn quickly and adapt. </p>
 
